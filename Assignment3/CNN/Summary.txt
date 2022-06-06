@@ -1,0 +1,3 @@
+ Validtion Loss Parameters mean and Std1.3820000000000001 0.04019950248448349
+validation accuracy parameters mean and std  1.3820000000000001 0.04019950248448349 
+Test Accuracy Mean and Std 70.032 0.5558920758564561
