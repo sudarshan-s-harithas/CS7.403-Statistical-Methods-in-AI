@@ -2,7 +2,7 @@
 
 ## Assignment 1
 
-1. A Light Introduction to Random Variables and Density Functions
+1. An Introduction to Random Variables and Density Functions
 
 ## Assignment 2
 
